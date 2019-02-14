@@ -1,0 +1,31 @@
+.top-container {background-color: #E4F9F5;
+position: absolute;
+}
+body {margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{color: #005542;
+margin-top: 150px;
+font-family: 'Sacramento', cursive;
+font-size: 90px;
+}
+h2{font-family: 'Hanalei Fill', cursive;}
+h3{font-family: 'Hanalei Fill', cursive;}
+
+.bottom-cloud {position: fixed;
+    margin-left: -1060px;
+    margin-top: -266px;}
+.threes-ss{ width:100%;
+  height: 100%;
+  margin-top: 0;
+}
+.top-cloud{position: absolute;
+  margin-left: 189px;
+      margin-top: 41px;}
+
+.parag{font-family: fantasy;
+font-size: 60px;
+color: #42d7f4;
+text-shadow: 2px 2px #FF0000;
+}
